@@ -13,4 +13,8 @@ $cargo new hello
 $cargo run
 ```
 
-## 
+##  Run the test
+
+```
+$cargo test
+```

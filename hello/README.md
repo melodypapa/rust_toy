@@ -1,4 +1,4 @@
-# 1. Hello world Projet
+# 1. Hello world Project
 
 ## 1.1. Create the project with Cargo
 

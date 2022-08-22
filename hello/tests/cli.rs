@@ -8,7 +8,7 @@ fn work(){
 #[test]
 fn runs(){
     let mut cmd = Command::cargo_bin("hello").unwrap();
-    cmd.assert().success().stdout("Hello, world!\n");
+    cmd.assert().success().stdout("Hello, World!\n");
 }
 
 #[test]
